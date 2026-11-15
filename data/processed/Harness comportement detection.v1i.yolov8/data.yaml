@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 9
+names: ['AJ20_D6_Cable', 'Clip', 'Connector', 'Etiquette Familly MHEV_NC11', 'Etiquette_Famille_AJ20_D-', 'Gape', 'Info', 'MHEV_N11_Cable', 'strap']
+
+roboflow:
+  workspace: projects-hr9jy
+  project: harness-comportement-detection
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/projects-hr9jy/harness-comportement-detection/dataset/1
