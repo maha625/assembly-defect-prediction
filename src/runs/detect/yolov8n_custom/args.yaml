@@ -1,8 +1,8 @@
 task: detect
 mode: train
 model: yolov8n.pt
-data: ./../data/processed/harness comportement.detection.v1.yolov8/train
-epochs: 50
+data: ../data/processed/Harness comportement detection.v1i.yolov8/data.yaml
+epochs: 20
 time: null
 patience: 10
 batch: 16
@@ -13,7 +13,7 @@ cache: false
 device: cpu
 workers: 8
 project: null
-name: yolov8n_custom
+name: yolov8n_custom7
 exist_ok: false
 pretrained: true
 optimizer: auto
@@ -106,4 +106,4 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: botsort.yaml
-save_dir: D:\S5\Projet_d'expertise\projet\src\runs\detect\yolov8n_custom
+save_dir: D:\S5\Projet_d'expertise\projet\src\runs\detect\yolov8n_custom7
