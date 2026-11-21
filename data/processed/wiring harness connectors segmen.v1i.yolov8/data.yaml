@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['cable', 'cable-tie', 'clip', 'connector', 'label']
+
+roboflow:
+  workspace: rafael-freitas
+  project: wiring-harness-connectors-segmen
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rafael-freitas/wiring-harness-connectors-segmen/dataset/1
