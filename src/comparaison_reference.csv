@@ -1,3 +1,0 @@
-﻿classe,ref_id,test_id,ref_xy,test_aligned_xy,ecart_pos_px,angle_ref_deg,angle_test_deg,ecart_angle_deg,statut
-connector,0,0,"(215.4, 429.0)","(215.4, 429.0)",0.0,81.53,81.53,0.0,OK
-connector,1,1,"(505.5, 40.8)","(505.5, 40.8)",0.0,79.98,79.98,0.0,OK

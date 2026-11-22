@@ -1,0 +1,3 @@
+﻿classe,ref_id,test_id,ref_xy,test_aligned_xy,ecart_pos_px,angle_ref_deg,angle_test_deg,ecart_angle_deg,statut
+connector,0,0,"(440.0, 238.7)","(424.5, 238.5)",15.51,18.2,-13.04,31.24,ANGLE_HORS_TOL
+connector,1,10,"(376.2, 481.0)","(419.8, 444.1)",57.16,15.19,-16.59,31.78,POSITION_HORS_TOL | ANGLE_HORS_TOL
