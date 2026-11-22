@@ -1,0 +1,10 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: cable
+  1: cable-tie
+  2: clip
+  3: connector
+  4: label
