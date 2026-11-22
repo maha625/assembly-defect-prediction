@@ -1,0 +1,60 @@
+{
+  "verdict": "CONFORME",
+  "reference_image": "D:\\reference.jpg",
+  "test_image": "D:\\reference.jpg",
+  "global_camera_rotation_deg": 0.0,
+  "topology_reference": {
+    "total_length_px": 0,
+    "total_endpoints": 0,
+    "total_junctions": 0
+  },
+  "topology_test": {
+    "total_length_px": 0,
+    "total_endpoints": 0,
+    "total_junctions": 0
+  },
+  "tolerances": {
+    "position_px": 40.0,
+    "angle_deg": 10.0,
+    "length_ratio": 0.15
+  },
+  "defects": [],
+  "matched_components": [
+    {
+      "classe": "connector",
+      "ref_id": 0,
+      "test_id": 0,
+      "ref_xy": [
+        215.4,
+        429.0
+      ],
+      "test_aligned_xy": [
+        215.4,
+        429.0
+      ],
+      "ecart_pos_px": 0.0,
+      "angle_ref_deg": 81.53,
+      "angle_test_deg": 81.53,
+      "ecart_angle_deg": 0.0,
+      "statut": "OK"
+    },
+    {
+      "classe": "connector",
+      "ref_id": 1,
+      "test_id": 1,
+      "ref_xy": [
+        505.5,
+        40.8
+      ],
+      "test_aligned_xy": [
+        505.5,
+        40.8
+      ],
+      "ecart_pos_px": 0.0,
+      "angle_ref_deg": 79.98,
+      "angle_test_deg": 79.98,
+      "ecart_angle_deg": 0.0,
+      "statut": "OK"
+    }
+  ]
+}
