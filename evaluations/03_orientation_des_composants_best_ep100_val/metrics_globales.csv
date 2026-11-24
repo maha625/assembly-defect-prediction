@@ -1,0 +1,18 @@
+﻿Metrique,Valeur
+metrics/precision(B),0.885044
+metrics/recall(B),0.529854
+metrics/mAP50(B),0.619317
+metrics/mAP50-95(B),0.477545
+fitness,0.477545
+OBB/Precision_moyenne (mp),0.885044
+OBB/Recall_moyen (mr),0.529854
+OBB/F1_moyen,0.662866
+OBB/mAP50,0.619317
+OBB/mAP75,0.539629
+OBB/mAP50-95,0.477545
+Speed_preprocess_ms,3.702
+Speed_inference_ms,293.096
+Speed_loss_ms,0.0
+Speed_postprocess_ms,11.794
+Speed_total_ms,308.593
+FPS_estime,3.24

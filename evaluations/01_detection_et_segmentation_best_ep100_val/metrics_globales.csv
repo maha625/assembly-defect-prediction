@@ -1,0 +1,28 @@
+﻿Metrique,Valeur
+metrics/precision(B),0.899039
+metrics/recall(B),0.667423
+metrics/mAP50(B),0.753234
+metrics/mAP50-95(B),0.565954
+metrics/precision(M),0.829781
+metrics/recall(M),0.660603
+metrics/mAP50(M),0.718011
+metrics/mAP50-95(M),0.548548
+fitness,1.114502
+BOX/Precision_moyenne (mp),0.899039
+BOX/Recall_moyen (mr),0.667423
+BOX/F1_moyen,0.766108
+BOX/mAP50,0.753234
+BOX/mAP75,0.666307
+BOX/mAP50-95,0.565954
+MASK/Precision_moyenne (mp),0.829781
+MASK/Recall_moyen (mr),0.660603
+MASK/F1_moyen,0.73559
+MASK/mAP50,0.718011
+MASK/mAP75,0.656527
+MASK/mAP50-95,0.548548
+Speed_preprocess_ms,8.978
+Speed_inference_ms,749.659
+Speed_loss_ms,0.0
+Speed_postprocess_ms,2427.378
+Speed_total_ms,3186.015
+FPS_estime,0.31

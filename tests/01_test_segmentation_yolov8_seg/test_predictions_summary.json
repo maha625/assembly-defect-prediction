@@ -1,0 +1,449 @@
+[
+  {
+    "image": "19_jpg.rf.0b667e1a8b05a4c0692ef7134054e317.jpg",
+    "resolution": [
+      640,
+      640
+    ],
+    "total_instances": 2,
+    "instances": [
+      {
+        "instance_id": 1,
+        "class": "connector",
+        "confidence": 0.7291,
+        "bbox_xyxy": [
+          170.65,
+          265.98,
+          242.02,
+          368.04
+        ],
+        "mask_area_pixels": 5402,
+        "polygon_points_count": 112
+      },
+      {
+        "instance_id": 2,
+        "class": "connector",
+        "confidence": 0.7168,
+        "bbox_xyxy": [
+          143.84,
+          350.65,
+          287.44,
+          497.61
+        ],
+        "mask_area_pixels": 17421,
+        "polygon_points_count": 141
+      }
+    ]
+  },
+  {
+    "image": "Defected_KS_COC_17SW-22-_png_jpg.rf.40ec5630cea7724960c8e1e1ffdd57a2.jpg",
+    "resolution": [
+      640,
+      640
+    ],
+    "total_instances": 1,
+    "instances": [
+      {
+        "instance_id": 1,
+        "class": "label",
+        "confidence": 0.3093,
+        "bbox_xyxy": [
+          0.0,
+          373.98,
+          386.67,
+          640.0
+        ],
+        "mask_area_pixels": 54726,
+        "polygon_points_count": 737
+      }
+    ]
+  },
+  {
+    "image": "IMG_20240206_135758_jpg.rf.fc95eb34f5515582eb9221228595efbc.jpg",
+    "resolution": [
+      640,
+      640
+    ],
+    "total_instances": 12,
+    "instances": [
+      {
+        "instance_id": 1,
+        "class": "connector",
+        "confidence": 0.9526,
+        "bbox_xyxy": [
+          0.0,
+          107.62,
+          39.29,
+          163.42
+        ],
+        "mask_area_pixels": 1611,
+        "polygon_points_count": 45
+      },
+      {
+        "instance_id": 2,
+        "class": "connector",
+        "confidence": 0.9226,
+        "bbox_xyxy": [
+          215.68,
+          445.97,
+          296.66,
+          496.13
+        ],
+        "mask_area_pixels": 2469,
+        "polygon_points_count": 106
+      },
+      {
+        "instance_id": 3,
+        "class": "connector",
+        "confidence": 0.859,
+        "bbox_xyxy": [
+          235.19,
+          517.99,
+          273.19,
+          568.1
+        ],
+        "mask_area_pixels": 1468,
+        "polygon_points_count": 58
+      },
+      {
+        "instance_id": 4,
+        "class": "cable",
+        "confidence": 0.7597,
+        "bbox_xyxy": [
+          176.4,
+          38.05,
+          578.22,
+          480.27
+        ],
+        "mask_area_pixels": 24835,
+        "polygon_points_count": 952
+      },
+      {
+        "instance_id": 5,
+        "class": "connector",
+        "confidence": 0.7032,
+        "bbox_xyxy": [
+          154.88,
+          315.39,
+          199.3,
+          357.55
+        ],
+        "mask_area_pixels": 1471,
+        "polygon_points_count": 49
+      },
+      {
+        "instance_id": 6,
+        "class": "cable",
+        "confidence": 0.4776,
+        "bbox_xyxy": [
+          0.0,
+          326.66,
+          194.56,
+          426.1
+        ],
+        "mask_area_pixels": 3412,
+        "polygon_points_count": 212
+      },
+      {
+        "instance_id": 7,
+        "class": "connector",
+        "confidence": 0.3943,
+        "bbox_xyxy": [
+          477.49,
+          329.29,
+          583.75,
+          392.46
+        ],
+        "mask_area_pixels": 5985,
+        "polygon_points_count": 72
+      },
+      {
+        "instance_id": 8,
+        "class": "cable",
+        "confidence": 0.3763,
+        "bbox_xyxy": [
+          0.24,
+          183.26,
+          68.71,
+          214.26
+        ],
+        "mask_area_pixels": 1315,
+        "polygon_points_count": 64
+      },
+      {
+        "instance_id": 9,
+        "class": "clip",
+        "confidence": 0.3098,
+        "bbox_xyxy": [
+          0.63,
+          189.19,
+          35.17,
+          217.41
+        ],
+        "mask_area_pixels": 755,
+        "polygon_points_count": 28
+      },
+      {
+        "instance_id": 10,
+        "class": "cable",
+        "confidence": 0.3066,
+        "bbox_xyxy": [
+          127.39,
+          213.38,
+          209.78,
+          325.98
+        ],
+        "mask_area_pixels": 3618,
+        "polygon_points_count": 161
+      },
+      {
+        "instance_id": 11,
+        "class": "cable",
+        "confidence": 0.3009,
+        "bbox_xyxy": [
+          75.2,
+          0.11,
+          129.61,
+          166.44
+        ],
+        "mask_area_pixels": 5689,
+        "polygon_points_count": 146
+      },
+      {
+        "instance_id": 12,
+        "class": "cable",
+        "confidence": 0.2922,
+        "bbox_xyxy": [
+          0.0,
+          0.0,
+          571.62,
+          611.05
+        ],
+        "mask_area_pixels": 43824,
+        "polygon_points_count": 1764
+      }
+    ]
+  },
+  {
+    "image": "WIN_20230807_13_08_44_Pro_jpg.rf.7f703640d0d7db23af68646d794a02e9.jpg",
+    "resolution": [
+      640,
+      640
+    ],
+    "total_instances": 1,
+    "instances": [
+      {
+        "instance_id": 1,
+        "class": "cable-tie",
+        "confidence": 0.3176,
+        "bbox_xyxy": [
+          429.29,
+          276.03,
+          475.41,
+          425.51
+        ],
+        "mask_area_pixels": 5284,
+        "polygon_points_count": 101
+      }
+    ]
+  },
+  {
+    "image": "img_259_jpg.rf.a7100f37567e13b61739d2e6c5eee03e.jpg",
+    "resolution": [
+      640,
+      640
+    ],
+    "total_instances": 0,
+    "instances": []
+  },
+  {
+    "image": "img_280_jpg.rf.9463804b26f87452dd63f6413dc6467e.jpg",
+    "resolution": [
+      640,
+      640
+    ],
+    "total_instances": 1,
+    "instances": [
+      {
+        "instance_id": 1,
+        "class": "connector",
+        "confidence": 0.7537,
+        "bbox_xyxy": [
+          235.77,
+          398.56,
+          609.13,
+          612.38
+        ],
+        "mask_area_pixels": 51624,
+        "polygon_points_count": 454
+      }
+    ]
+  },
+  {
+    "image": "img_31_jpg.rf.6c31f33449838ebb8d2960374285ddff.jpg",
+    "resolution": [
+      640,
+      640
+    ],
+    "total_instances": 1,
+    "instances": [
+      {
+        "instance_id": 1,
+        "class": "connector",
+        "confidence": 0.3967,
+        "bbox_xyxy": [
+          206.28,
+          206.95,
+          510.98,
+          442.7
+        ],
+        "mask_area_pixels": 48361,
+        "polygon_points_count": 511
+      }
+    ]
+  },
+  {
+    "image": "img_507_jpg.rf.1de6f3397833abf81cc530b8fb58d478.jpg",
+    "resolution": [
+      640,
+      640
+    ],
+    "total_instances": 4,
+    "instances": [
+      {
+        "instance_id": 1,
+        "class": "connector",
+        "confidence": 0.9381,
+        "bbox_xyxy": [
+          211.68,
+          275.95,
+          361.59,
+          457.6
+        ],
+        "mask_area_pixels": 22470,
+        "polygon_points_count": 192
+      },
+      {
+        "instance_id": 2,
+        "class": "connector",
+        "confidence": 0.9042,
+        "bbox_xyxy": [
+          35.6,
+          289.71,
+          189.94,
+          488.38
+        ],
+        "mask_area_pixels": 21793,
+        "polygon_points_count": 250
+      },
+      {
+        "instance_id": 3,
+        "class": "connector",
+        "confidence": 0.8036,
+        "bbox_xyxy": [
+          550.15,
+          324.3,
+          639.7,
+          500.48
+        ],
+        "mask_area_pixels": 11847,
+        "polygon_points_count": 137
+      },
+      {
+        "instance_id": 4,
+        "class": "connector",
+        "confidence": 0.7584,
+        "bbox_xyxy": [
+          328.48,
+          216.82,
+          472.34,
+          374.34
+        ],
+        "mask_area_pixels": 20202,
+        "polygon_points_count": 124
+      }
+    ]
+  },
+  {
+    "image": "img_607_jpg.rf.66c92eccdd73afad9f383db9ddb0139e.jpg",
+    "resolution": [
+      640,
+      640
+    ],
+    "total_instances": 1,
+    "instances": [
+      {
+        "instance_id": 1,
+        "class": "label",
+        "confidence": 0.5615,
+        "bbox_xyxy": [
+          7.28,
+          157.11,
+          513.72,
+          621.1
+        ],
+        "mask_area_pixels": 156991,
+        "polygon_points_count": 1164
+      }
+    ]
+  },
+  {
+    "image": "img_608_jpg.rf.c745e36b944d01fa454c9d5df585e3d8.jpg",
+    "resolution": [
+      640,
+      640
+    ],
+    "total_instances": 2,
+    "instances": [
+      {
+        "instance_id": 1,
+        "class": "label",
+        "confidence": 0.893,
+        "bbox_xyxy": [
+          140.06,
+          201.93,
+          523.39,
+          637.85
+        ],
+        "mask_area_pixels": 140386,
+        "polygon_points_count": 378
+      },
+      {
+        "instance_id": 2,
+        "class": "label",
+        "confidence": 0.2914,
+        "bbox_xyxy": [
+          145.43,
+          56.27,
+          223.58,
+          226.98
+        ],
+        "mask_area_pixels": 11931,
+        "polygon_points_count": 144
+      }
+    ]
+  },
+  {
+    "image": "img_81_jpg.rf.c335d883a2a967f3350e0bd2a0b8e34c.jpg",
+    "resolution": [
+      640,
+      640
+    ],
+    "total_instances": 1,
+    "instances": [
+      {
+        "instance_id": 1,
+        "class": "connector",
+        "confidence": 0.5762,
+        "bbox_xyxy": [
+          233.4,
+          232.85,
+          631.34,
+          514.94
+        ],
+        "mask_area_pixels": 79899,
+        "polygon_points_count": 546
+      }
+    ]
+  }
+]

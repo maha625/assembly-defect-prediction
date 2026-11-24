@@ -1,0 +1,7 @@
+﻿,True_cable,True_cable-tie,True_clip,True_connector,True_label,True_background
+Pred_cable,3,0,0,0,0,0
+Pred_cable-tie,0,2,0,0,0,1
+Pred_clip,0,0,4,0,0,8
+Pred_connector,0,0,0,52,0,18
+Pred_label,0,0,0,0,4,2
+Pred_background,28,0,1,12,0,0
